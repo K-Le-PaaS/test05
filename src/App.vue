@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header class="header">
-      <h1>K-Le PaaS Vue Test</h1>
+      <h1>K-Le-PaaS Vue Test</h1>
       <p>쿠버네티스 자동화 배포 테스트용 Vue.js 애플리케이션</p>
     </header>
     
