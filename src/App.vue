@@ -2,7 +2,7 @@
   <div id="app">
     <header class="header">
       <h1>K-Le-PaaS Vue Test</h1>
-      <p>쿠버네티스 자동화 배포 테스트용 Vue.js 애플리케이션</p>
+      <p>쿠버네티스 자동화 배포 테스트용 Vue.js 애플리케이션 v.1.1</p>
     </header>
     
     <main class="main">
@@ -10,7 +10,7 @@
         <h2>서비스 상태</h2>
         <div class="status">
           <span class="status-indicator">🟢</span>
-          <span>정상 동작 중</span>
+          <span>정상 동작 중입니다</span>
         </div>
       </div>
       
